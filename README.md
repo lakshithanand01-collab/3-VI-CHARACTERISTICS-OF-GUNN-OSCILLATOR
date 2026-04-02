@@ -45,14 +45,25 @@ Note: After tuning the Gunn source, the procedure for VSWR & Impedance measureme
 
 # B.Observation:
 
+<img width="791" height="570" alt="Screenshot 2026-04-02 072634" src="https://github.com/user-attachments/assets/1a5bb645-83a7-4e88-b705-b4c7299d7137" />
+
 # C.Analysis of Results: 
 
-(Include sample calculations/Display/plot/typical graph)
+<img width="735" height="988" alt="Screenshot 2026-04-02 072717" src="https://github.com/user-attachments/assets/e4503611-2190-4cdc-9f8c-e30fb2fab12b" />
+
+
 
 # D.Conclusions: 
 
 # Precautions:
 
-• Check the connections before switching on the kit. • Connections should be done properly. • Observation should be taken properly.
+• Check the connections before switching on the kit.
 
-Result:
+• Connections should be done properly.
+
+• Observation should be taken properly.
+
+# Result:
+
+The I–V characteristics of the Gunn diode were plotted and the negative resistance region was identified. Peak voltage (Vₚ) = 2.5 V, Valley voltage (Vᵥ) = 5 V. Peak current (Iₚ) = 195 mA, Valley current (Iᵥ) = 175 mA. Calculated negative resistance (Rₙ) ≈ –125 Ω
+
